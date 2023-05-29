@@ -12,7 +12,7 @@ iPhone:
 
 ## Built With
 
-* [SwiftUI](https://www.apple.com/br/swift/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 ## Author
 **Emerson Sampaio**  [Linkedin](https://www.linkedin.com/in/emersonsmp/)
